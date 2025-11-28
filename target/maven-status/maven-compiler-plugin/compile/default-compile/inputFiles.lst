@@ -1,1 +1,9 @@
 /home/ajay/Desktop/my-console-app/src/main/java/com/example/App.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/Consumer.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/Producer.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/kafkaState/JsonDeserializer.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/kafkaState/JsonSerde.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/kafkaState/JsonSerializer.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/kafkaState/Purchase.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/kafkaState/RewardAccumulator.java
+/home/ajay/Desktop/my-console-app/src/main/java/com/example/kafkaState/RewardTransformer.java
