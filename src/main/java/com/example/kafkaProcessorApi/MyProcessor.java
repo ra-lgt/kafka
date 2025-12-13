@@ -19,7 +19,7 @@ public class MyProcessor implements Processor<String, String> {
         if (value == null) {
             System.out.println("❌ NULL VALUE DETECTED!");
         }
-        context.forward(key, value == null ? "NULL" : value.toUpperCase());
+        context.forward(key, value == null ? "NULL" : value.toUpperCase());  // ajay -> AJAY
     }
 
     @Override
